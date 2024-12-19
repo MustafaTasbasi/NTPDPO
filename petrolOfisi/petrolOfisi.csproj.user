@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="AracKayit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Genel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Giris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Pompa1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Pompa2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PompaciKayit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="YakitKayit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

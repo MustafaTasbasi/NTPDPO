@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "PUH0JwGgILodXHKmabEHyxFNY9lZGGu9oshFO9mb/prVOVH1NVKarDW8J8mphNN/oqOJUvthgun+7A/wyJJNow==",
+  "success": true,
+  "projectFilePath": "D:\\Users\\tasba\\source\\repos\\petrolOfisi\\petrolOfisi\\petrolOfisi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tasba\\.nuget\\packages\\runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\tasba\\.nuget\\packages\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\tasba\\.nuget\\packages\\runtime.win-x64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\tasba\\.nuget\\packages\\runtime.win-x86.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x86.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\tasba\\.nuget\\packages\\system.data.sqlclient\\4.9.0\\system.data.sqlclient.4.9.0.nupkg.sha512"
+  ],
+  "logs": []
+}

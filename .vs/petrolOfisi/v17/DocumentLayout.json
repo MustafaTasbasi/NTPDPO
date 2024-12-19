@@ -1,0 +1,210 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Users\\tasba\\source\\repos\\petrolOfisi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4A2FCE4E-40E5-4DB9-8475-6E65C6F242C1}|petrolOfisi\\petrolOfisi.csproj|d:\\users\\tasba\\source\\repos\\petrolofisi\\petrolofisi\\genel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4A2FCE4E-40E5-4DB9-8475-6E65C6F242C1}|petrolOfisi\\petrolOfisi.csproj|solutionrelative:petrolofisi\\genel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A2FCE4E-40E5-4DB9-8475-6E65C6F242C1}|petrolOfisi\\petrolOfisi.csproj|D:\\Users\\tasba\\source\\repos\\petrolOfisi\\petrolofisi\\pompa1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A2FCE4E-40E5-4DB9-8475-6E65C6F242C1}|petrolOfisi\\petrolOfisi.csproj|solutionrelative:petrolofisi\\pompa1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A2FCE4E-40E5-4DB9-8475-6E65C6F242C1}|petrolOfisi\\petrolOfisi.csproj|D:\\Users\\tasba\\source\\repos\\petrolOfisi\\petrolofisi\\pompa1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4A2FCE4E-40E5-4DB9-8475-6E65C6F242C1}|petrolOfisi\\petrolOfisi.csproj|solutionrelative:petrolofisi\\pompa1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A2FCE4E-40E5-4DB9-8475-6E65C6F242C1}|petrolOfisi\\petrolOfisi.csproj|D:\\Users\\tasba\\source\\repos\\petrolOfisi\\petrolofisi\\model\\pompaci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A2FCE4E-40E5-4DB9-8475-6E65C6F242C1}|petrolOfisi\\petrolOfisi.csproj|solutionrelative:petrolofisi\\model\\pompaci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A2FCE4E-40E5-4DB9-8475-6E65C6F242C1}|petrolOfisi\\petrolOfisi.csproj|D:\\Users\\tasba\\source\\repos\\petrolOfisi\\petrolofisi\\model\\pompa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A2FCE4E-40E5-4DB9-8475-6E65C6F242C1}|petrolOfisi\\petrolOfisi.csproj|solutionrelative:petrolofisi\\model\\pompa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A2FCE4E-40E5-4DB9-8475-6E65C6F242C1}|petrolOfisi\\petrolOfisi.csproj|D:\\Users\\tasba\\source\\repos\\petrolOfisi\\petrolofisi\\model\\satis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A2FCE4E-40E5-4DB9-8475-6E65C6F242C1}|petrolOfisi\\petrolOfisi.csproj|solutionrelative:petrolofisi\\model\\satis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A2FCE4E-40E5-4DB9-8475-6E65C6F242C1}|petrolOfisi\\petrolOfisi.csproj|D:\\Users\\tasba\\source\\repos\\petrolOfisi\\petrolofisi\\pompacikayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A2FCE4E-40E5-4DB9-8475-6E65C6F242C1}|petrolOfisi\\petrolOfisi.csproj|solutionrelative:petrolofisi\\pompacikayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A2FCE4E-40E5-4DB9-8475-6E65C6F242C1}|petrolOfisi\\petrolOfisi.csproj|D:\\Users\\tasba\\source\\repos\\petrolOfisi\\petrolofisi\\pompacikayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4A2FCE4E-40E5-4DB9-8475-6E65C6F242C1}|petrolOfisi\\petrolOfisi.csproj|solutionrelative:petrolofisi\\pompacikayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A2FCE4E-40E5-4DB9-8475-6E65C6F242C1}|petrolOfisi\\petrolOfisi.csproj|D:\\Users\\tasba\\source\\repos\\petrolOfisi\\petrolofisi\\yakitkayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A2FCE4E-40E5-4DB9-8475-6E65C6F242C1}|petrolOfisi\\petrolOfisi.csproj|solutionrelative:petrolofisi\\yakitkayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A2FCE4E-40E5-4DB9-8475-6E65C6F242C1}|petrolOfisi\\petrolOfisi.csproj|D:\\Users\\tasba\\source\\repos\\petrolOfisi\\petrolofisi\\model\\arac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A2FCE4E-40E5-4DB9-8475-6E65C6F242C1}|petrolOfisi\\petrolOfisi.csproj|solutionrelative:petrolofisi\\model\\arac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A2FCE4E-40E5-4DB9-8475-6E65C6F242C1}|petrolOfisi\\petrolOfisi.csproj|D:\\Users\\tasba\\source\\repos\\petrolOfisi\\petrolofisi\\genel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A2FCE4E-40E5-4DB9-8475-6E65C6F242C1}|petrolOfisi\\petrolOfisi.csproj|solutionrelative:petrolofisi\\genel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A2FCE4E-40E5-4DB9-8475-6E65C6F242C1}|petrolOfisi\\petrolOfisi.csproj|D:\\Users\\tasba\\source\\repos\\petrolOfisi\\petrolofisi\\arackayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A2FCE4E-40E5-4DB9-8475-6E65C6F242C1}|petrolOfisi\\petrolOfisi.csproj|solutionrelative:petrolofisi\\arackayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Genel.cs [Tasar\u0131m]",
+              "DocumentMoniker": "D:\\Users\\tasba\\source\\repos\\petrolOfisi\\petrolOfisi\\Genel.cs",
+              "RelativeDocumentMoniker": "petrolOfisi\\Genel.cs",
+              "ToolTip": "D:\\Users\\tasba\\source\\repos\\petrolOfisi\\petrolOfisi\\Genel.cs [Tasar\u0131m]",
+              "RelativeToolTip": "petrolOfisi\\Genel.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T13:43:18.766Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pompa1.cs",
+              "DocumentMoniker": "D:\\Users\\tasba\\source\\repos\\petrolOfisi\\petrolOfisi\\Pompa1.cs",
+              "RelativeDocumentMoniker": "petrolOfisi\\Pompa1.cs",
+              "ToolTip": "D:\\Users\\tasba\\source\\repos\\petrolOfisi\\petrolOfisi\\Pompa1.cs",
+              "RelativeToolTip": "petrolOfisi\\Pompa1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T13:38:34.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Pompa1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "D:\\Users\\tasba\\source\\repos\\petrolOfisi\\petrolOfisi\\Pompa1.cs",
+              "RelativeDocumentMoniker": "petrolOfisi\\Pompa1.cs",
+              "ToolTip": "D:\\Users\\tasba\\source\\repos\\petrolOfisi\\petrolOfisi\\Pompa1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "petrolOfisi\\Pompa1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T13:38:30.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Satis.cs",
+              "DocumentMoniker": "D:\\Users\\tasba\\source\\repos\\petrolOfisi\\petrolOfisi\\Model\\Satis.cs",
+              "RelativeDocumentMoniker": "petrolOfisi\\Model\\Satis.cs",
+              "ToolTip": "D:\\Users\\tasba\\source\\repos\\petrolOfisi\\petrolOfisi\\Model\\Satis.cs",
+              "RelativeToolTip": "petrolOfisi\\Model\\Satis.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T13:38:01.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PompaciKayit.cs [Tasar\u0131m]",
+              "DocumentMoniker": "D:\\Users\\tasba\\source\\repos\\petrolOfisi\\petrolOfisi\\PompaciKayit.cs",
+              "RelativeDocumentMoniker": "petrolOfisi\\PompaciKayit.cs",
+              "ToolTip": "D:\\Users\\tasba\\source\\repos\\petrolOfisi\\petrolOfisi\\PompaciKayit.cs [Tasar\u0131m]",
+              "RelativeToolTip": "petrolOfisi\\PompaciKayit.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T13:35:37.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Pompa.cs",
+              "DocumentMoniker": "D:\\Users\\tasba\\source\\repos\\petrolOfisi\\petrolOfisi\\Model\\Pompa.cs",
+              "RelativeDocumentMoniker": "petrolOfisi\\Model\\Pompa.cs",
+              "ToolTip": "D:\\Users\\tasba\\source\\repos\\petrolOfisi\\petrolOfisi\\Model\\Pompa.cs",
+              "RelativeToolTip": "petrolOfisi\\Model\\Pompa.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T17:20:12.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Genel.cs",
+              "DocumentMoniker": "D:\\Users\\tasba\\source\\repos\\petrolOfisi\\petrolOfisi\\Genel.cs",
+              "RelativeDocumentMoniker": "petrolOfisi\\Genel.cs",
+              "ToolTip": "D:\\Users\\tasba\\source\\repos\\petrolOfisi\\petrolOfisi\\Genel.cs",
+              "RelativeToolTip": "petrolOfisi\\Genel.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAACIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T16:27:12.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PompaciKayit.cs",
+              "DocumentMoniker": "D:\\Users\\tasba\\source\\repos\\petrolOfisi\\petrolOfisi\\PompaciKayit.cs",
+              "RelativeDocumentMoniker": "petrolOfisi\\PompaciKayit.cs",
+              "ToolTip": "D:\\Users\\tasba\\source\\repos\\petrolOfisi\\petrolOfisi\\PompaciKayit.cs",
+              "RelativeToolTip": "petrolOfisi\\PompaciKayit.cs",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAAAB8AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T16:05:07.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AracKayit.cs",
+              "DocumentMoniker": "D:\\Users\\tasba\\source\\repos\\petrolOfisi\\petrolOfisi\\AracKayit.cs",
+              "RelativeDocumentMoniker": "petrolOfisi\\AracKayit.cs",
+              "ToolTip": "D:\\Users\\tasba\\source\\repos\\petrolOfisi\\petrolOfisi\\AracKayit.cs",
+              "RelativeToolTip": "petrolOfisi\\AracKayit.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAIwD4AAACFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T14:28:28.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "YakitKayit.cs",
+              "DocumentMoniker": "D:\\Users\\tasba\\source\\repos\\petrolOfisi\\petrolOfisi\\YakitKayit.cs",
+              "RelativeDocumentMoniker": "petrolOfisi\\YakitKayit.cs",
+              "ToolTip": "D:\\Users\\tasba\\source\\repos\\petrolOfisi\\petrolOfisi\\YakitKayit.cs",
+              "RelativeToolTip": "petrolOfisi\\YakitKayit.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T11:34:51.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Arac.cs",
+              "DocumentMoniker": "D:\\Users\\tasba\\source\\repos\\petrolOfisi\\petrolOfisi\\Model\\Arac.cs",
+              "RelativeDocumentMoniker": "petrolOfisi\\Model\\Arac.cs",
+              "ToolTip": "D:\\Users\\tasba\\source\\repos\\petrolOfisi\\petrolOfisi\\Model\\Arac.cs",
+              "RelativeToolTip": "petrolOfisi\\Model\\Arac.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T18:35:28.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Pompaci.cs",
+              "DocumentMoniker": "D:\\Users\\tasba\\source\\repos\\petrolOfisi\\petrolOfisi\\Model\\Pompaci.cs",
+              "RelativeDocumentMoniker": "petrolOfisi\\Model\\Pompaci.cs",
+              "ToolTip": "D:\\Users\\tasba\\source\\repos\\petrolOfisi\\petrolOfisi\\Model\\Pompaci.cs",
+              "RelativeToolTip": "petrolOfisi\\Model\\Pompaci.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T18:31:13.623Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
